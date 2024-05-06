@@ -1,0 +1,6 @@
+{
+  "id":"step",
+  "name":"step",
+  "src":"step.app.js",
+"icon":"step.img"
+})
